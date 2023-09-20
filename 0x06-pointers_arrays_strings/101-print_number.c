@@ -1,7 +1,7 @@
-#inlude "main.h"
+#include "main.h"
 
 /**
- * print _number - print numbers chars
+ * print_number - print numbers chars
  * @n: integer params
  * Return: 0
  */
