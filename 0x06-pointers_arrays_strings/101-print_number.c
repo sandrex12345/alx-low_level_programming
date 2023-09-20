@@ -2,13 +2,13 @@
 
 /**
  * print _number - print numbers chars
- * @n: integers params
+ * @n: integer params
  * Return: 0
  */
 
 void print_number(int n)
 {
-	unsigned int nl;
+	unsigned int n1;
 
 	n1 = n;
 	if (n < 0)
