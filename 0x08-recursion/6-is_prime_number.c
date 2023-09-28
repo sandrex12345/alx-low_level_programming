@@ -18,7 +18,7 @@ int prime_a(int a, int b)
 	return (prime_a(a, b + 1));
 }
 /**
- * is _prime_number - detect if its a prime no
+ * is_prime_number - detect if its a prime no
  * @n: the input number
  * Return: 0 or 1
  */
