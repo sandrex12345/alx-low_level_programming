@@ -9,12 +9,12 @@
  */
 dog_t *new_dog(char *name, float age, char *owner)
 {
-	unsigned int n, o, i;
+	unsigned int n1, o1, i;
 	dog_t *dog;
 
 	if (name == NULL || owner == NULL)
 		return (NULL);
-	dog = malloc(sizeof(dog_t));
+	dog = malloic(sizeof(dog_t));
 	if (dog == NULL)
 		return (NULL);
 	for (n = 0; name[n]; n++)
