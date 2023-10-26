@@ -1,8 +1,3 @@
-
-Ose Osara <osaraose1@gmail.com>
-1:44 PM (6 minutes ago)
-to me
-
 #include "main.h"
 
 /**
